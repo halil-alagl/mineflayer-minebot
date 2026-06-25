@@ -20,7 +20,7 @@ This repository contains a Minecraft bot programmed in JavaScript using Mineflay
 2. Navigate to the project directory:
 
     ```bash
-    cd minecraft-mining-bot
+    cd minecraft-minebot
     ```
 
 3. Install dependencies:
